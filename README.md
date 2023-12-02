@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mikhail Charniak</h1>
-<h3 align="center">Data engineer and enthusiast from Belarus</h3>
+<h3 align="center">Software engineer and enthusiast from Belarus</h3>
 
 - 🔭 I’m currently working on **some AI telegram bots**
 
